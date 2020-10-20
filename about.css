@@ -1,0 +1,55 @@
+body {
+    background-image: url("hawaii.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(252, 252, 252);
+}
+h2 {
+    color: rgb(4, 0, 247);
+    text-shadow: rgb(0, 0, 0);
+    font-family: 'candara';
+    font-size: 400%;
+    font-style: italic;
+    text-align: center;
+    margin-top: 50px;
+    border-style: double inset;
+    border-width: 5px;
+    border-color:cyan;
+    border-radius: 5cm;
+}
+h3 {
+    color: rgb(255, 0, 191);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    font-style: italic;
+    text-align: center;
+    margin-top: 50px;
+}
+p {
+    color: white;
+    font-size: 200%;
+    text-align: center;
+    margin-top: 50px;
+    padding: top 30px;
+    padding-right: 100px;
+    padding-left: 100px;
+  
+}
+img 
+{
+  padding: 10px;
+}
+a:link {
+    color: red;
+  }
+a:visited {
+  color: red;
+  }
+a:hover {
+    color: greenyellow;
+  }
+a:active {
+    color: blue;
+  }

@@ -1,0 +1,140 @@
+body {
+    background-image: url("water.jpg");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: rgb(252, 252, 252);
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: "Muli";
+    font-size: 400%;
+    font-style: italic;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 200%;
+    text-align: center;
+    margin-top: 10px;
+}
+h3 {
+    color:rgb(0, 2, 124);
+    font-size: 200%;
+    text-align: center;
+    margin-top: 10px;
+}
+h4 {
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 200%;
+    font-family: "Muli"; 
+    padding-left: 15cm;
+    padding-right: 15cm;
+    line-height: 200%;
+}
+img {
+  border-radius: 100%;
+  }
+
+p {
+  text-align: center;
+}
+
+.left {
+  padding-left: 540px;
+  padding-right: 70px;
+}
+.right {
+  padding-left: 70px;
+}
+ 
+  a:hover {
+    color: green;
+  }
+  a:active {
+    color: blue;
+  }
+  .fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+  
+  /* Add a hover effect if you want */
+  .fa:hover {
+    opacity: 0.7;
+  }
+  
+  /* Set a specific color for each brand */
+  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa-instagram {
+    background: #f82d59;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa-linkedin {
+    background: #0071c7;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .fa-envelope{
+    background: #000000;
+    color: white;
+    padding: 20px;
+    font-size: 30px;
+    width: 30px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 50%;
+  }
+  .btn {
+    background-color: rgba(0, 0, 0, 0.671);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  /* Darker background on mouse-over */
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
+  
